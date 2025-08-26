@@ -1,9 +1,4 @@
-/*
-Nombre: Bruno Antonio Galvan Morales
-Matricula: 2913513
-Actividad: 2
-Modulo: 1
-*/
+
 
 import java.util.Scanner;
 
@@ -94,6 +89,7 @@ public class act_2 {
 
     }
     }
+
 
 
 
